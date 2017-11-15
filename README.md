@@ -1,3 +1,5 @@
+This Library Created by Rahul Negi INFOTHEME(https://infotheme.in)
+
 # VeRy.js
 VeRy.Js 1KB Javascript Library, Similar like jQuery. The javascript library inspired from Vanila.js, So you can easily use it for vanila js.
 
@@ -130,4 +132,4 @@ These are usefull method of this javascript library you can do easily everything
 
 VeRy.js can fill your all basic requirement, of javascript library. It's a small and powerfull solution to boost up you code using vanila.js and core javascript
 
-For More Information And Best Practice : http://veryjs.org/
+For More Information And Best Practice : https://infotheme.in
